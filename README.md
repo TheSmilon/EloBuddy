@@ -1,4 +1,4 @@
-# echo # EloBuddy >> README.md
+ EloBuddy
 git init
 git add README.md
 git commit -m "first commit"
